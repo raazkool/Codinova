@@ -1,0 +1,14 @@
+D:\Live\CodinovaTask\CodinovaTask\bin\Debug\netcoreapp2.2\CodinovaTask.deps.json
+D:\Live\CodinovaTask\CodinovaTask\bin\Debug\netcoreapp2.2\CodinovaTask.runtimeconfig.json
+D:\Live\CodinovaTask\CodinovaTask\bin\Debug\netcoreapp2.2\CodinovaTask.runtimeconfig.dev.json
+D:\Live\CodinovaTask\CodinovaTask\bin\Debug\netcoreapp2.2\CodinovaTask.dll
+D:\Live\CodinovaTask\CodinovaTask\bin\Debug\netcoreapp2.2\CodinovaTask.pdb
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.csprojAssemblyReference.cache
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.csproj.CoreCompileInputs.cache
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.RazorAssemblyInfo.cache
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.RazorAssemblyInfo.cs
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.AssemblyInfoInputs.cache
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.AssemblyInfo.cs
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.RazorTargetAssemblyInfo.cache
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.dll
+D:\Live\CodinovaTask\CodinovaTask\obj\Debug\netcoreapp2.2\CodinovaTask.pdb
